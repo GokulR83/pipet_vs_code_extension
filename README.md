@@ -97,7 +97,9 @@ To test the extension commands:
     that prefix.
 
 
-## Resources
+## Features I build from the existing project
+#### 1) Code Explanation
+it will provide a good explanation to the code that you have selected via generating comment on top of your code
+#### 2) Suggest a good name for the code
+it will provide a good valid name to the code that you have selected via generating comment on top of your code
 
-- Project code tutorial:
-[Build AI Code Assistant with Pipet Code Agent](https://ai.google.dev/examples/pipet-code-agent) tutorial.
